@@ -1,0 +1,68 @@
+main {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+}
+
+body {
+    background-image: url(./Images/mainbackground.png);
+}
+
+/*  Found on CSS tricks*/
+hr.style-eight {
+    overflow: visible;
+    padding: 0;
+    border: none;
+    border-top: medium double white;
+    color: white;
+    text-align: center;
+}
+hr.style-eight:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.9em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background-image: url(./Images/mainbackground.png)
+}
+.callout {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    color: whitesmoke;
+    margin-bottom: 0;
+    background-image: url(./Images/background.jpeg);
+}
+.menu {
+    background: #333;
+}
+
+.menu a:hover{
+    background-color: black;
+    text-decoration: underline;
+    border-style: solid;
+    border-width: thin;
+}
+#mainHeading {
+    text-decoration: underline;
+    font-size: 45px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#bodyDescription, #titleDescription {
+    font-size: 18px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#indexBody {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: white;
+    border: 2px dashed black;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#mainHeader {
+    border-style: solid;
+}
