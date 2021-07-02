@@ -1,0 +1,11 @@
+56 10
+Tony Parker 8 6 7 7 3 5 2 8 7
+Danny Green 5 5 9 3 5 8 7 8 6
+Kawhi Leonard 8 7 10 4 7 10 9 7 9
+Tim Duncan 7 6 0 4 8 7 8 7 6
+LaMarcus Aldridge 9 10 0 3 9 4 6 10 8
+Patty Mills 4 7 7 4 3 5 2 7 8
+Manu Ginobili 6 7 6 5 4 5 4 5 7
+Jonathon Simmons 4 4 7 3 4 6 6 4 7
+David West 8 8 0 2 5 6 7 5 8
+Boris Diaw 5 5 8 5 6 6 5 3 6

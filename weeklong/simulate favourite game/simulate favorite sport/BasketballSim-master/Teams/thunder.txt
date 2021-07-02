@@ -1,0 +1,11 @@
+45 22
+Russell Westbrook 10 8 3 10 8 9 3 3 8
+Andre Roberson 4 3 2 1 5 7 7 7 6
+Kevin Durant 10 10 9 5 8 6 6 6 9
+Serge Ibaka 7 7 6 1 7 7 9 5 6
+Steven Adams 6 0 0 1 7 5 8 7 3
+Randy Foye 3 6 5 3 4 5 4 6 8
+Dion Waiters 5 7 6 3 4 5 2 3 5
+Kyle Singler 1 7 7 1 4 3 4 8 7
+Nick Collison 4 0 0 1 8 7 8 5 5
+Enes Kanter 10 8 3 1 9 2 3 8 7

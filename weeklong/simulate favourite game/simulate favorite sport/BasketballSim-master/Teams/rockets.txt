@@ -1,0 +1,11 @@
+34 33
+Patrick Beverley 5 7 8 3 4 9 5 6 6
+James Harden 10 9 8 8 7 5 3 3 8
+Trevor Ariza 6 8 8 3 5 9 5 7 6
+Donatas Motiejunas 7 7 5 3 7 6 5 5 3
+Dwight Howard 9 0 0 2 10 8 10 3 1
+Jason Terry 4 6 7 3 3 5 1 6 8
+Corey Brewer 5 4 3 2 3 6 2 6 6
+K.J. McDaniels 3 2 1 2 3 8 6 7 8
+Michael Beasley 7 6 1 1 6 5 3 5 6
+Clint Capela 7 0 0 1 8 7 8 6 0

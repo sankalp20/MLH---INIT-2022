@@ -1,0 +1,3 @@
+firstname lastname drive midrange threepoint assist rebound on-ball-defense help-defense turnover free-throw
+
+Should be exactly the same format in for every team and every player

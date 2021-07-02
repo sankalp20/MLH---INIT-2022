@@ -1,0 +1,11 @@
+42 23
+Chris Paul 9 8 9 10 6 10 2 8 9
+J.J. Redick 5 10 10 3 3 4 2 10 9
+Paul Pierce 5 5 5 4 5 4 5 7 8
+Jeff Green 7 7 6 2 5 4 7 7 7
+DeAndre Jordan 8 0 0 1 10 8 9 6 0
+Pablo Prigioni 3 4 3 6 4 3 2 7 6
+Jamal Crawford 7 9 6 3 2 3 1 5 9
+Wesley Johnson 6 5 2 1 5 5 4 6 6
+Luc M'bah-a-Moute 3 2 4 1 5 8 7 6 4
+Cole Aldrich 7 0 0 1 6 6 7 3 5

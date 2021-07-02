@@ -1,0 +1,11 @@
+28 40
+Jose Calderon 4 6 8 5 4 5 1 6 10
+Arron Afflalo 7 7 7 3 5 3 2 4 8
+Carmelo Anthony 9 10 7 6 8 6 3 5 8
+Kristaps Porzingas 7 7 5 2 8 7 8 6 8
+Robin Lopez 7 1 0 2 7 7 7 4 7
+Langston Galloway 4 7 6 4 5 7 4 7 6
+Sasha Vujacic 3 5 4 3 3 2 2 7 8
+Lance Thomas 6 7 7 2 4 5 3 4 8
+Derrick Williams 7 7 3 2 5 4 2 7 5
+Kyle O'Quinn 6 2 1 2 7 4 7 2 6
